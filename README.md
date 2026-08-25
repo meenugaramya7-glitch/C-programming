@@ -13,13 +13,6 @@ This repository contains my C programming practice programs and college projects
   # Project
   ### Student Result Management System
   A c program that manages student marks and calculate total marks,percentage and grades.
-  ## Features
-  - Enter student details
-  - Enter marks
-  - Calculate total marks
-  - Calculate percentage
-  - Assign grades
-  - Display student results
    ## Technology Used
   - C Programming
   ## Author
